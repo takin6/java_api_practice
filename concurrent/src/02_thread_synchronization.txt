@@ -1,0 +1,10 @@
+Java's buit-in monitors
+- Every object has a monitor and a monitor lock
+- THe monitor ensures that its object's monitor lock
+  is held by a maximum of only one thread at any time
+- Used to enforce mutual exclusion
+
+- To specify that a thread must hold a monitor lock
+  to esxecute a block of code, the code should be
+  placed in a synchronized statement
+  synchronized(object) {}

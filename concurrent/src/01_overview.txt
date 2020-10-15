@@ -1,0 +1,15 @@
+Tasks Executing in Parallel
+- Two tasks operating in parallel are executing simultaniously
+- subset of concurrency
+- Multi-core computers have multiple processors that can perform tasks in parallel
+
+Multithreading
+- Java makes concurrecy available to you through the language and APIS
+- Java programs can have multiple threads of execution
+- Each thread has its own method-call stack and program counter,
+  allwing it to execute concurrently with other threads
+
+Parallel vs. Concurrent
+- Concurrent（並行）は「複数の動作が、論理的に、順不同もしくは同時に起こりうる」こと
+- Parallel（並列）は、「複数の動作が、物理的に、同時に起こること」
+https://freak-da.hatenablog.com/entry/20100915/p1

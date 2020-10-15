@@ -1,0 +1,9 @@
+Improvemenets
+
+- Improvements
+    - No Iteration Specified
+    - No Mutable Variables
+    - Library figures it out
+    - Easier to parallelize for multi-core and improved performance
+
+- Java funcation programming focuses on "immutability"

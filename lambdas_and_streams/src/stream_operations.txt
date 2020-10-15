@@ -1,0 +1,15 @@
+
+intermediate operations
+filter, distinct, limit, map, sorted
+
+
+terminal operations
+- forEach
+- Reduction operations - Taks all values in the stream and return a single value
+average, count, max, min, reduce
+- Mutable reduction operation - create a container (such as a collection or StringBuilder)
+collect, toArray
+- Serach Operations
+findFirst, findAny, anyMatch, allMatch
+
+
